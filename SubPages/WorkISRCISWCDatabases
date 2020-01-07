@@ -1,0 +1,66 @@
+{| class="wikitable sortable" width="90%"
+|-
+!width=20px|Site
+!width=20px|ISRC
+!width=20px|ISWC
+!width=20px|IPI codes
+!width=20px|Writers
+!width=20px|Publishers
+|-
+|[https://mobile.ascap.com/aceclient/AceWeb/ ASCAP]
+|style="background:#f66;"|No
+|style="background:#6f6;"|Yes
+|style="background:#6f6;"|Yes
+|style="background:#6f6;"|Yes
+|style="background:#6f6;"|Yes
+|-
+|[http://repertoire.bmi.com/NoSearch.asp BMI]
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#6f6;"|Yes
+|style="background:#6f6;"|Yes
+|style="background:#6f6;"|Yes
+|-
+|[https://isrcsearch.ifpi.org/#!/search IFPI]
+|style="background:#6f6;"|Yes
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|-
+|[http://imslp.org/ International Music Score Library Project]
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#6f6;"|Yes
+|style="background:#f66;"|No
+|-
+|[http://repsearch.ppluk.com/ PPL Repertoire Search]
+|style="background:#6f6;"|Yes
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|-
+|[http://www.scpp.fr/SCPP/Accueil/REPERTOIRE/Catalogue/Choix_catalogue/BasePhonogrammes/tabid/81/language/en-US/Default.aspx SCPP]
+|style="background:#6f6;"|Yes
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|-
+|[https://sonymusiclicensing.com/ Sony Music Entertainment]
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#6f6;"|Yes
+|style="background:#f66;"|No
+|-
+|[http://isrc.ncl.edu.tw/ 國家圖書館]
+|style="background:#6f6;"|Yes
+|style="background:#f66;"|No
+|style="background:#f66;"|No
+|style="background:#6f6;"|Yes
+|style="background:#f66;"|No
+|}
+<div class="center"><span style="font-size:9px">Page Modified on {{REVISIONMONTH}}/{{REVISIONDAY2}}/{{REVISIONYEAR}} by {{REVISIONUSER}}</span></div>
