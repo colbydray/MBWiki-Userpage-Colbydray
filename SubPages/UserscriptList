@@ -1,0 +1,639 @@
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+
+
+{| class="wikitable cellspacing="4" style="text-align: center; background:#FFFFFF; border:2px solid #FFCC02;" "
+|<span class="plainlinks">Note: These userscripts are not officially supported by MusicBrainz.
+|}
+<br><br>
+<span style="font-size:50px; font-family: Roboto; font-weight: 100">Importer Scripts</span>
+
+
+{| class="wikitable sortable" width="90%"
+|-
+!Name
+!Info
+!width=20px|Site
+!width=70px|2nd Site
+!width=20px|Author
+!width=30px class="unsortable" |DL
+!width=25px class="unsortable" |Src
+!width=25px class="unsortable" |Bug
+|-
+|valign="top" rowspan=2 |Import Amazon releases to MusicBrainz
+|valign="top" rowspan=2 |Import album data from Amazon to add a new release on MusicBrainz.
+|style="background:#F8CEA3;" valign="top" rowspan=2 |MusicBrainz
+|valign="top" rowspan=2 |Amazon 
+|Goram
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/Goram/MusicBrainz-Import-from-Amazon/raw/master/built/MusicBrainz_Import_from_Amazon.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/Goram/MusicBrainz-Import-from-Amazon/blob/master/built/MusicBrainz_Import_from_Amazon.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/Goram/MusicBrainz-Import-from-Amazon/issues]]
+|-
+|dufferzafar
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/dufferZafar/Userscripts/raw/master/MB-Import-From-Amazon.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/dufferzafar/Userscripts/blob/master/MB-Import-From-Amazon.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/dufferzafar/Userscripts/issues]]
+|-
+|Import Bandcamp releases to MusicBrainz
+|Add a button on Bandcamp's album pages to open MusicBrainz release editor with pre-filled data for the selected release.
+|style="background:#F8CEA3;"|MusicBrainz
+|Bandcamp 
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/bandcamp_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/bandcamp_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import Beatport releases to MusicBrainz
+|One-click importing of releases from beatport.com/release pages into MusicBrainz.
+|style="background:#F8CEA3;"|MusicBrainz
+|Beatport
+|VxJasonxV
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/beatport_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/beatport_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+
+|-
+|Import CD1D releases to MusicBrainz
+|Add a button on CD1D.com release pages allowing to open MusicBrainz release editor with pre-filled data for the selected release.
+|style="background:#F8CEA3;"|MusicBrainz
+|CD1D
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/cd1d_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/cd1d_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import CD Baby releases to MusicBrainz
+|One-click importing of releases from cdbaby.com into MusicBrainz.
+|style="background:#F8CEA3;"|MusicBrainz
+|CD Baby
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/cdbaby_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/cdbaby_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import Discogs releases to MusicBrainz
+|Add a button to import Discogs releases to MusicBrainz and add links to matching MusicBrainz entities for various Discogs entities (artist,release,master,label).
+|style="background:#F8CEA3;"|MusicBrainz
+|Discogs 
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/discogs_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/discogs_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import Encyclopedisque releases to MusicBrainz
+|Easily import Encyclopedisque releases into MusicBrainz.
+|style="background:#F8CEA3;"|MusicBrainz
+|Encyclopedisque
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/encyclopedisque_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/encyclopedisque_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import events from Facebook
+|
+|style="background:#F8CEA3;"|MusicBrainz
+|Facebook
+|opatel99
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://gist.github.com/opatel99/3537237628abce4da2a3/raw/c2e3685d58b4ad21c0a15f7d2982cada03f5cb97/facebook-importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://gist.github.com/opatel99/3537237628abce4da2a3]]
+|N/A
+|-
+|Import Free Music Archive releases to MusicBrainz
+|Add a button to import https://freemusicarchive.org/ releases to MusicBrainz via API.
+|style="background:#F8CEA3;"|MusicBrainz
+|Free Music Archive
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/fma_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/fma_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import iTunes releases to MusicBrainz
+|Import album data from iTunes to add a new release on MusicBrainz.
+|style="background:#F8CEA3;"|MusicBrainz
+|iTunes 
+|dufferzafar
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/dufferzafar/Userscripts/raw/master/MB-Import-From-iTunes.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/dufferzafar/Userscripts/blob/master/MB-Import-From-iTunes.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/dufferzafar/Userscripts/issues]]
+|-
+|Import Juno Download releases to MusicBrainz
+|One-click importing of releases from junodownload.com/products pages into MusicBrainz.
+|style="background:#F8CEA3;"|MusicBrainz
+|Juno Download
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/juno_download_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/juno_download_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import Last.fm releases to MusicBrainz
+|One-click importing of releases from last.fm into MusicBrainz. PLEASE import releases from more reliable sources if possible.
+|style="background:#F8CEA3;"|MusicBrainz
+|Last.fm
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/lastfm_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/lastfm_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import Loot releases to MusicBrainz
+|Add a button to import Loot.co.za releases to MusicBrainz
+|style="background:#F8CEA3;"|MusicBrainz
+|Loot
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/loot_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/loot_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import Metal Archives releases into MusicBrainz
+|Add a button on Metal Archives release pages allowing to open MusicBrainz release editor with pre-filled data for the selected release.
+|style="background:#F8CEA3;"|MusicBrainz
+|Metal Archives
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/metalarchives_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/metalarchives_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import Naxos releases into MusicBrainz
+|Add a button to import Naxos Music Library releases to MusicBrainz
+|style="background:#F8CEA3;"|MusicBrainz
+|Naxos
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mbz-naxos_library_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mbz-naxos_library_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Import Qobuz releases to MusicBrainz
+|Add a button on Qobuz's album pages to open MusicBrainz release editor with pre-filled data for the selected release.
+|style="background:#F8CEA3;"|MusicBrainz
+|Qobuz 
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/qobuz_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/qobuz_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import T-Series releases to MusicBrainz
+|Import album data from T-Series's official website to add a new release on MusicBrainz.
+|style="background:#F8CEA3;"|MusicBrainz
+|T-Series
+|dufferzafar
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/dufferzafar/Userscripts/master/MB-Import-From-TSeries.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/dufferzafar/Userscripts/blob/master/MB-Import-From-TSeries.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/dufferzafar/Userscripts/issues]]
+|-
+|Import Takealot releases to MusicBrainz
+|Add a button to import Takealot releases to MusicBrainz.
+|style="background:#F8CEA3;"|MusicBrainz
+|Takealot 
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/takealot_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/master/takealot_importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Import videos from YouTube
+|
+|style="background:#F8CEA3;"|MusicBrainz
+|YouTube
+|Freso
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/Freso/nikki-userscripts/raw/2bafb61929ed2a4296029e7311bad8f357f44245/youtube-importer/youtube-importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/Freso/nikki-userscripts/src/2bafb61929ed2a4296029e7311bad8f357f44245/youtube-importer/youtube-importer.user.js?fileviewer=file-view-default]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/Freso/nikki-userscripts/issues]]
+|-
+|Import videos from Vimeo
+|
+|style="background:#F8CEA3;"|MusicBrainz
+|Vimeo
+|96187
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/96187/userscripts/raw/c46b96cc3c793a5574796e722d5f0d9ef6d41395/vimeo-importer/vimeo-importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/96187/userscripts/src/c46b96cc3c793a5574796e722d5f0d9ef6d41395/vimeo-importer/vimeo-importer.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/96187/userscripts/issues]]
+|-
+|Musicbrainz DiscIds Detector
+|Generate MusicBrainz DiscIds from online EAC logs, and check existence in MusicBrainz database.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/mb_discids_detector.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/mb_discids_detector.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|}
+<span style="font-size:50px; font-family: Roboto; font-weight: 100">Helper Scripts</span>
+{| class="wikitable sortable" width="90%"
+|-
+!width=250px|Name
+!Info
+!width=20px|Site
+!width=70px|2nd Site
+!width=20px|Author
+!width=30px class="unsortable" |DL
+!width=25px class="unsortable" |Src
+!width=25px class="unsortable" |Bug
+|-
+|Import Bandcamp releases to MusicBrainz Album Link Helper
+|Add a link to Bandcamp's album canonical URL on pages without /album/, for one to import the release into MusicBrainz.
+|style="background:#F8CEA3;"|MusicBrainz
+|Bandcamp 
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/bandcamp_importer_helper.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/bandcamp_importer_helper.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Musicbrainz UI enhancements
+|Various UI enhancements for Musicbrainz.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/mb_ui_enhancements.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/mb_ui_enhancements.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Show discid count
+|Show discid number on main release pages.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-display_count_discid.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-display_count_discid.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Show alias count
+|Show alias number on work/artist pages.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-display_count_alias.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-display_count_alias.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Show missing works
+|Show missing works on an artist page.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-display_work_relations_for_artist_recordings.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-display_work_relations_for_artist_recordings.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Show acoustID and AcousticBrainz link
+|Show acoustids on a Work page.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-edit-merge_from_acoustid.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-edit-merge_from_acoustid.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Make columns sortable
+|Make table columns sortable.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-display_sortable_table.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-display_sortable_table.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Show statistics from AcousticBrainz
+|
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-display_acousticbrainz_data_for_recording.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-display_acousticbrainz_data_for_recording.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Set work attributes
+|Set work attributes from the composer page.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-edit-set_work_attributes.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-edit-set_work_attributes.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Create artist from wikipedia data
+|Fill artist info from wikidata.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-edit-create_from_wikidata.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-edit-create_from_wikidata.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Replace recording artist from recording AR
+|Replace associated recording artist from an Artist or Work page.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-edit-replace_rec_artist_from_work_page.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-edit-replace_rec_artist_from_work_page.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Propagate recording dates
+|Batch-propagate recording dates.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-reledit-copy_dates.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-reledit-copy_dates.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Set recording attributes
+|Set attributes (live, partial) on selected recordings.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-reledit-set_relation_attrs.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-reledit-set_relation_attrs.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Set performer instrument
+|Convert to "string" instrument AR on selected recordings.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-reledit-set_instruments.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-reledit-set_instruments.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Guess related works
+|Set best-guess related works.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-reledit-guess_works.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-reledit-guess_works.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Transform release AR into recording AR
+|Move performer AR on release to recordings AR.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-reledit-release_rel_to_recording_rel.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-reledit-release_rel_to_recording_rel.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Replace recording artist from recording AR (On release pages)
+|Replace associated recording artist from a Release page.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-edit-replace_rec_artist_from_release_page.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-edit-replace_rec_artist_from_release_page.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Replace recording artist from recording AR (On work pages)
+|Replace associated recording artist from an Artist or Work page.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/loujine/musicbrainz-scripts/raw/default/mb-edit-replace_rec_artist_from_work_page.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-edit-replace_rec_artist_from_work_page.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
+|-
+|Elephant Editor
+|Remember last edit notes and dates.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_ELEPHANT-EDITOR.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_ELEPHANT-EDITOR.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Paste-A-Date!
+|This script adds a field after the existing date fields where you can paste a date and it will try to parse it.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|JesseWeinstein
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://gist.github.com/JesseWeinstein/368bddf748f4faf44b5775addf7f3db0/raw/fb00b612185abf9d948d2a78c685ac20605bb047/paste-a-date.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://gist.github.com/JesseWeinstein/368bddf748f4faf44b5775addf7f3db0]]
+|N/A
+|-
+|Mass Merge Recordings
+|Merges selected or all recordings from release A to release B.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_MASS-MERGE-RECORDINGS.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_MASS-MERGE-RECORDINGS.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Fast cancel edits
+|This makes it easier to cancel a large amount of edits on a page. Don't use this if you're prone to clicking pretty much anything by mistake.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/murdos/musicbrainz-userscripts/raw/master/fast-cancel-edits.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/fast-cancel-edits.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Expand/collapse release groups
+|See what's inside a release group without having to follow its URL. Also adds convenient edit links for it.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/expand-collapse-release-groups.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/expand-collapse-release-groups.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Set recording comments for a release
+|Batch set recording comments from a Release page.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/set-recording-comments.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/set-recording-comments.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
+|-
+|Power Vote
+|Adds some buttons to check all unvoted edits (Yes/No/Abs/None) at once in the edit search page. You can also collapse/expand (all) edits for clarity. A handy reset votes button is also available + Double click radio to vote single edit + range click with shift to vote a series of edits. , Hidden (collapsed) edits will never be voted (even if range click or shift+click force vote).
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_POWER-VOTE.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_POWER-VOTE.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Inline Track Artist
+|Highlights track title, length and artist differences in recording page.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_INLINE-TRACK-ARTIST.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_INLINE-TRACK-ARTIST.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Spot Duplicate Recordings
+|Spot recordings that are linked multiple times to the same work.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_SPOT-DUPLICATE-RECORDINGS.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_SPOT-DUPLICATE-RECORDINGS.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Auto-Focus + Keyboard-Select
+|MOUSE-LESS EDITING! Cleverly focuses fields in various musicbrainz edit pages and allows keyboard selection of relationship types as well as some release editor keyboard navigation performance features.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_AUTO-FOCUS-KEYBOARD-SELECT.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_AUTO-FOCUS-KEYBOARD-SELECT.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|SUPER MIND CONTROL Ⅱ X TURBO
+|Musicbrainz Power-Ups (mbsandbox.org too): RELEASE_CLONER. copy/paste releases / DOUBLE_CLICK_SUBMIT / CONTROL_ENTER_SUBMIT / RELEASE_EDITOR_PROTECTOR. prevent accidental cancel by better tab key navigation / TRACKLIST_TOOLS. search→replace, track length parser, remove recording relationships, set selected works date / LAST_SEEN_EDIT. handy for subscribed entities / COOL_SEARCH_LINKS / COPY_TOC / ROW_HIGHLIGHTER / SPOT_CAA / SPOT_AC / RECORDING_LENGTH_COLUMN / RELEASE_EVENT_COLUMN / WARN_NEW_WINDOW / SERVER_SWITCH / TAG_TOOLS / USER_STATS / MAX_RECENT_ENTITIES / CHECK_ALL_SUBSCRIPTIONS / EASY_DATE. paste full dates in one go / STATIC_MENU / MERGE_USER_MENUS / SLOW_DOWN_RETRY / CENTER_FLAGS / RATINGS_ON_TOP / HIDE_RATINGS / UNLINK_ENTITY_HEADER / MARK_PENDING_EDIT_MEDIUMS
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_SUPER-MIND-CONTROL-II-X-TURBO.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_SUPER-MIND-CONTROL-II-X-TURBO.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|MERGE HELPOR 2
+|Merge helper highlights last clicked, shows info, indicates oldest MBID, manages (remove) entity merge list; merge queue (clear before add) tool; don’t reload page for nothing when nothing is checked
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb.%20MERGE%20HELPOR%202.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb.%20MERGE%20HELPOR%202.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|INLINE STUFF
+|musicbrainz.org release page: Inline recording names, comments, ISRC, PUID and AcoustID. Highlights duplicates in releases and edits.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_INLINE-STUFF.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_INLINE-STUFF.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Unicode characters
+|Ctrl+M on Musicbrainz input text or textarea controls shows context menu for unicode characters. Just click on the menu line to send the character or close.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|Smeulf
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/Smeulf/userscripts/raw/master/mb.unicodechars.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/Smeulf/userscripts/blob/master/mb.unicodechars.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/Smeulf/userscripts/issues]]
+|}
+
+<span style="font-size:50px; font-family: Roboto; font-weight: 100">Other Scripts</span>
+{| class="wikitable sortable" width="90%"
+|-
+!Name
+!Info
+!width=20px|Site
+!width=70px|2nd Site
+!width=20px|Author
+!width=30px class="unsortable" |DL
+!width=25px class="unsortable" |Src
+!width=25px class="unsortable" |Bug
+|-
+|Funkey Illustrated Records
+|CAA front cover art archive pictures/images (release groups and releases) Big illustrated discography and/or inline everywhere possible without cluttering the pages
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_FUNKEY-ILLUSTRATED-RECORDS.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_FUNKEY-ILLUSTRATED-RECORDS.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|CAA Links (Cover Art Archive Links)
+|Linkifies cover art edit “Filenames” (as specified in http://musicbrainz.org/edit/42525958).
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_CAA-LINKS.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_CAA-LINKS.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Colourful rainbow edit headers
+|This script changes the background colour of the edit header, depending on the type of edit. By default, add is green, edit is yellow, remove is pink, merge is purple and all others are blue. If you want to change the colours, they're set at the top of the script.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|stars
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=http://userscripts-mirror.org/scripts/source/103267.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=http://userscripts-mirror.org/scripts/review/103267]]
+|N/A
+|-
+|AcousticBrainz links
+|Display AcousticBrainz links in release pages.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://gist.github.com/jesus2099/8e223f09d64d831a9514/raw/a033a199d890f8e4535c9553d280ad3176c55921/mb_ACOUSTICBRAINZ-LINKS.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://gist.github.com/jesus2099/8e223f09d64d831a9514/]]
+|N/A
+|-
+|REDIRECT WHEN UNIQUE RESULT
+|Redirect when only 1 result and-or unique 100% scored result
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_REDIRECT-WHEN-UNIQUE-RESULT.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_REDIRECT-WHEN-UNIQUE-RESULT.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Hyper Moulinette
+|Mass PUT or DELETE releases in a collection from an edit search or an other collection.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_HYPER-MOULINETTE.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_HYPER-MOULINETTE.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Cool Entity Links
+|In some pages like edits, blog, forums, chatlogs, tickets, annotations, etc. it will prefix entity links with an icon, shorten and embelish all sorts of MB links (cdtoc, entities, tickets, bugs, edits, etc.).
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_COOL-ENTITY-LINKS.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_COOL-ENTITY-LINKS.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Collection Highlighter
+|Highlights releases, release-groups, etc. that you have in your collections (anyone’s collection can be loaded) everywhere.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_COLLECTION-HIGHLIGHTER.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_COLLECTION-HIGHLIGHTER.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Revive Deleted Editors
+|reveal deleted editors’ names and emphasizes your own name to standout in MB pages.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_REVIVE-DELETED-EDITORS.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_REVIVE-DELETED-EDITORS.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Plain Text Tracklist
+|Get a quick copy of the tracklists in plain text (several formats) for quick re-use (in track parser, EAC, foobar2000 or mp3tag for instance).
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_PLAIN-TEXT-TRACKLIST.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_PLAIN-TEXT-TRACKLIST.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Preferred MusicBrainz Server
+|Choose your favourite MusicBrainz server (main or beta) and no link will ever send you to the other.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_PREFERRED-MBS.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_PREFERRED-MBS.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|ALL RELEASE GROUPS
+|It will always display full artist discographies (including non official release groups) by default.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_ALL-RELEASE-GROUPS.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_ALL-RELEASE-GROUPS.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|}
+
+<span style="font-size:9px">Page Modified on {{REVISIONMONTH}}/{{REVISIONDAY2}}/{{REVISIONYEAR}} by {{REVISIONUSER}}</span>
