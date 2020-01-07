@@ -1,0 +1,44 @@
+__NOTOC__
+
+=== CDBaby Cover Art === 
+
+ http://images.cdbaby.name/k/l/klass3.jpg
+ http://images.cdbaby.name/k/l/klass3_large.jpg (add "_large" for 600x600 Cover Art instead of 200x200)
+
+=== Ebay Cover Art === 
+
+ http://i.ebayimg.com/00/s/MTQzNlgxNjAw/z/TEIAAOSwZd1VcW2K/$_12.JPG
+ http://i.ebayimg.com/00/s/MTQzNlgxNjAw/z/TEIAAOSwZd1VcW2K/$_57.JPG (replace "$_12.JPG" with "$_57.JPG" for 1600x1600 Picture)
+
+ http://i.ebayimg.com/images/g/HzoAAOSwv0tVcW2J/s-l600.jpg
+ http://i.ebayimg.com/images/g/HzoAAOSwv0tVcW2J/s-l1600.jpg (replace "s-l600.jpg" with "s-l1600.jpg" for 1600x1600 Picture)
+
+=== EMusic Cover Art === 
+
+ http://cf-images.emusic.com/music/images/album/154/968/15496802/600x600.jpg
+ http://cf-images.emusic.com/music/images/album/154/968/15496802/1400x1400.jpg (replace "600x600.jpg" with "1400x1400.jpg" for 1400x1400 Cover Art)
+
+=== iTunes Cover Art === 
+  
+ https://is2-ssl.mzstatic.com/image/thumb/  Music6/v4/d4/c8/4a/d4c84a65-0eaa-9e38-28cc-5b92b64c49e8  /source/313x0w.jpg
+      http://is4.mzstatic.com/image/thumb/  Music6/v4/d4/c8/4a/d4c84a65-0eaa-9e38-28cc-5b92b64c49e8  /source/9999x9999.jpg
+
+=== Murfie Cover Art === 
+
+ https://s3.amazonaws.com/dfree/production/albums/covers/27877-large.jpg
+ https://s3.amazonaws.com/dfree/production/albums/covers/27877-huge.jpg (replace "large" with "huge" for 300x300 Cover Art instead of 210x210)
+
+=== Google Play Cover Art === 
+
+ https://lh3.googleusercontent.com/o_sPBewLBAkVbEe8VK2LqjLjRh3vGckvJh-HDv1CqGJrKaaksyhlIvpDTiWFO8UUpD2BNyY9zg=w300-rw
+ https://lh3.googleusercontent.com/o_sPBewLBAkVbEe8VK2LqjLjRh3vGckvJh-HDv1CqGJrKaaksyhlIvpDTiWFO8UUpD2BNyY9zg=w9999-rw (replace "w300" with "w9999" for Maximum Cover Art)
+
+=== Zing MP3 Cover Art ===
+
+ http://image.mp3.zdn.vn/thumb/240_240/covers/2/b/2bc7e227534650a50a50bfe2ddfc55b7_1461817444.jpg
+ http://image.mp3.zdn.vn/covers/2/b/2bc7e227534650a50a50bfe2ddfc55b7_1461817444.jpg (remove "thumb/XXX_XXX/")
+
+=== nhac.hay365.com Cover Art ===
+
+ http://nhac.hay365.com/thumbs/240x240/source/picture/album/11-2016/DongYeuThuong.jpg
+ http://nhac.hay365.com/source/picture/album/11-2016/DongYeuThuong.jpg (remove "thumbs/***x***/")
