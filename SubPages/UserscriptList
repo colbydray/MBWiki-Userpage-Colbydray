@@ -110,10 +110,10 @@
 |Import album data from iTunes to add a new release on MusicBrainz.
 |style="background:#F8CEA3;"|MusicBrainz
 |iTunes 
-|dufferzafar
-|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/dufferzafar/Userscripts/raw/master/MB-Import-From-iTunes.user.js]]
-|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/dufferzafar/Userscripts/blob/master/MB-Import-From-iTunes.user.js]]
-|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/dufferzafar/Userscripts/issues]]
+|dufferzafar/damienmauchamp
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/damienmauchamp/Userscripts/raw/patch-1/MB-Import-From-iTunes.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/damienmauchamp/Userscripts/blob/patch-1/MB-Import-From-iTunes.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/damienmauchamp/Userscripts/issues]]
 |-
 |Import Juno Download releases to MusicBrainz
 |One-click importing of releases from junodownload.com/products pages into MusicBrainz.
@@ -184,7 +184,7 @@
 |Takealot 
 |murdos
 |style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/takealot_importer.user.js]]
-|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/master/takealot_importer.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/takealot_importer.user.js]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
 |-
 |Import videos from YouTube
@@ -634,6 +634,16 @@
 |style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_ALL-RELEASE-GROUPS.user.js]]
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_ALL-RELEASE-GROUPS.user.js]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Stig's Art Grabr
+|Grabbing big high resolution album cover-art from various sites
+|style="background:#ffffff;"|Various
+|
+|StigNygaard
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/StigNygaard/Stigs_Art_Grabr/raw/master/Stigs_Art_Grabr.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/StigNygaard/Stigs_Art_Grabr/blob/master/Stigs_Art_Grabr.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/StigNygaard/Stigs_Art_Grabr/issues]]
+|-
 |}
 
 <span style="font-size:9px">Page Modified on {{REVISIONMONTH}}/{{REVISIONDAY2}}/{{REVISIONYEAR}} by {{REVISIONUSER}}</span>
