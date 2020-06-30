@@ -1,16 +1,17 @@
 <div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
 
 {{Bio
-|name=Colby Ray
+|name=Colby D. Ray
 |image=colbydray_75.jpg
 |mb=colbydray
-|irc=colbydray
+|irc=colbydray,MFCR_ColbyRay
 |bio=Founder of MusicFreakz ColbyRay. "I'm Colby from US. I've been on MusicBrainz since 2014, adding artists and mostly editing releases."
 }}
-<span style="font-size:9px">Page Modified on {{REVISIONMONTH}}/{{REVISIONDAY2}}/{{REVISIONYEAR}} by {{REVISIONUSER}}</span>
+
+<span style="font-size:30px">Social/Profiles</span>
 {| class="wikitable cellspacing="9" cellpadding="4" style="border:2px solid #cccccc;""
 |
-{| class="wikitable cellspacing="4" style="text-align: center; background:#b3c8ff; border:2px solid #5786ff;" "
+{| class="wikitable cellspacing="4" style="text-align: center; background:#e0e0e0; border:2px solid #a0a0a0;" "
 |<span class="plainlinks">[http://colbydray.hostfree.pw/ My Website]</span>
 |}
 |
@@ -33,7 +34,9 @@
 {| class="wikitable cellspacing="4" style="text-align: center; background:#dae1f1; border:2px solid #3B5998;" "
 |<span class="plainlinks">[https://www.facebook.com/MusicFreakzColbyRay/ Facebook Page]</span>
 |}
-|-
+|}
+
+{| class="wikitable cellspacing="9" cellpadding="4" style="border:2px solid #cccccc;""
 |
 {| class="wikitable cellspacing="4" style="text-align: center; background:#FF7500; border:2px solid #FF3800;" "
 |<span class="plainlinks">[https://soundcloud.com/colbydray SoundCloud]</span>
@@ -51,6 +54,10 @@
 |<span class="plainlinks">[http://my.5nd.com/user/21228 5nd]</span>
 |}
 |
+{| class="wikitable cellspacing="4" style="text-align: center; background:#ffffff; border:2px solid #888888;" "
+|<span class="plainlinks">[https://github.com/colbydray/ Github]</span>
+|}
+|
 {| class="wikitable cellspacing="4" style="text-align: center; background:#FEC55E; border:2px solid #B13BAB;" "
 |<span class="plainlinks">[https://www.instagram.com/colbydray/ Instagram]</span>
 |}
@@ -60,56 +67,64 @@
 |}
 |}
 
+<br><br>
+<span style="font-size:30px">Main Lists</span>
 
 {| class="wikitable cellspacing="9" cellpadding="4" style="border:2px solid #cccccc;""
 |-
-|style="background:#b3c8ff; border:2px solid #5786ff;"|<span style="font-size:20px">[[/UserscriptList|Userscripts]]</span>
-|style="background:#b3c8ff; border:2px solid #5786ff;"|<span style="font-size:20px">[[/PicardPlugins|Picard Plugins]]</span>
+|style="background:#e0e0e0; border:2px solid #a0a0a0;"|<span style="font-size:20px">[[/UserscriptList|Userscripts]]</span>
+|style="background:#e0e0e0; border:2px solid #a0a0a0;"|<span style="font-size:20px">[[/PicardPlugins|Picard Plugins]]</span>
 |}
 
-
-<span style="font-size:30px">Databases</span>
+<br><br>
+<span style="font-size:30px">Databases Lists</span>
 
 {| class="wikitable cellspacing="14" cellpadding="7" style="border:2px solid #cccccc;""
 |-
-|style="background:#b3c8ff; border:2px solid #5786ff;"|<span style="font-size:20px">[[/ReleaseDatabases|Release Databases]]</span>
-|style="background:#b3c8ff; border:2px solid #5786ff;"|<span style="font-size:20px">[[/NonEnglishReleaseDatabases|Non-English Release Databases]]</span>
-|style="background:#b3c8ff; border:2px solid #5786ff;"|<span style="font-size:20px">[[/WorkISRCISWCDatabases|Work/ISRC/ISWC Databases]]</span>
-|style="background:#b3c8ff; border:2px solid #5786ff;"|<span style="font-size:20px">[[/CoverArtDatabases|Cover Art Databases]]</span>
+|style="background:#e0e0e0; border:2px solid #a0a0a0;"|<span style="font-size:20px">[[/ReleaseDatabases|Release Databases]]</span>
+|style="background:#e0e0e0; border:2px solid #a0a0a0;"|<span style="font-size:20px">[[/NonEnglishReleaseDatabases|Non-English Release Databases]]</span>
+|style="background:#e0e0e0; border:2px solid #a0a0a0;"|<span style="font-size:20px">[[/WorkISRCISWCDatabases|Work/ISRC/ISWC Databases]]</span>
+|style="background:#e0e0e0; border:2px solid #a0a0a0;"|<span style="font-size:20px">[[/CoverArtDatabases|Cover Art Databases]]</span>
 |-
 |}
 
-<span style="font-size:30px">Style Stuff</span>
+{| class="wikitable cellspacing="50" style="text-align: center;" "
+
+
+|<span style="font-size:30px">Style Stuff</span>
 
 [[/MainPage NewStyle|Main Page NewStyle]]
 
-[[/BBCLandingPage NewStyle|BBC Landing Page NewStyle]] 
-
 [[/GuidesUserscripts NewStyle|MB Guides Userscripts NewStyle]]
+
+[[/WelcomeToMusicBrainz|Welcome To MusicBrainz]]
 
 [[/NewDesignTest|New Design Testing]]
 
 [[/NewDesignExperimentation|New Design Experimentation]]
 
-<span style="font-size:30px">Cover Art Stuff</span>
+|<span style="font-size:30px">Cover Art Sources</span>
 
-[http://auctions.search.yahoo.co.jp/ ヤフオク！]
+[https://auctions.yahoo.co.jp/list3/22192-category.html ヤフオク！]
 
 [http://www.dangdang.com/ dangdang]
 
-[http://jangle.jp/ jangle]
 
-[http://jpophelp.com/ jpophelp]
+|<span style="font-size:30px">Other Stuff</span>
 
-<span style="font-size:30px">Old Stuff</span>
+[[/RulesoftheMBWiki|Rules of the MusicBrainz Wiki]]
 
-[[/RequestBrainz|User:Colbydray/RequestBrainz]]
+[[/MBHistoryTimeline|MusicBrainz History Timeline]]
 
-[[/RequestBrainz/Bot|RequestBrainz Bot]]
+|<span style="font-size:30px">Old Stuff</span>
 
 [[/HighQualityArt|High Quality Cover Art]]
 
 [[/WikiStatistics|Wiki Statistics]]
 
+|}
+
+
+<span style="font-size:9px">Page Modified on {{REVISIONMONTH}}/{{REVISIONDAY2}}/{{REVISIONYEAR}} by {{REVISIONUSER}}</span>
 </div>
 [[Category:English_Speakers]]
