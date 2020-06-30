@@ -1,5 +1,35 @@
-<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
 
+<!-- ------------------------------------------------------------------- -->
+<!--                                                                     -->
+<!--                       Notice from Page Creator:                     -->
+<!--   You can steal this text. You can copy this and make it offical.   -->
+<!--                  Just don't delete or blank the page.               -->
+<!--                                                                     -->
+<!-- ------------------------------------------------------------------- -->
+
+<!--
+
+Template:
+
+|-
+|█Script Name█
+|█Description█
+|style="background:#F8CEA3;"|MusicBrainz
+|█Site Name (if available)█
+|█Author█
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=█Direct Install Link█]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=█Source Code Link█]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=█Bug Report Link█]]
+
+
+no bug report link found:
+
+|N/A
+
+-->
+
+
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
 
 {| class="wikitable cellspacing="4" style="text-align: center; background:#FFFFFF; border:2px solid #FFCC02;" "
 |<span class="plainlinks">Note: These userscripts are not officially supported by MusicBrainz.
@@ -49,25 +79,6 @@
 |VxJasonxV
 |style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/beatport_importer.user.js]]
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/beatport_importer.user.js]]
-|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
-
-|-
-|Import CD1D releases to MusicBrainz
-|Add a button on CD1D.com release pages allowing to open MusicBrainz release editor with pre-filled data for the selected release.
-|style="background:#F8CEA3;"|MusicBrainz
-|CD1D
-|murdos
-|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/cd1d_importer.user.js]]
-|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/cd1d_importer.user.js]]
-|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
-|-
-|Import CD Baby releases to MusicBrainz
-|One-click importing of releases from cdbaby.com into MusicBrainz.
-|style="background:#F8CEA3;"|MusicBrainz
-|CD Baby
-|murdos
-|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/cdbaby_importer.user.js]]
-|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/cdbaby_importer.user.js]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
 |-
 |Import Discogs releases to MusicBrainz
@@ -122,15 +133,6 @@
 |murdos
 |style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/juno_download_importer.user.js]]
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/juno_download_importer.user.js]]
-|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
-|-
-|Import Last.fm releases to MusicBrainz
-|One-click importing of releases from last.fm into MusicBrainz. PLEASE import releases from more reliable sources if possible.
-|style="background:#F8CEA3;"|MusicBrainz
-|Last.fm
-|murdos
-|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/lastfm_importer.user.js]]
-|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/lastfm_importer.user.js]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
 |-
 |Import Loot releases to MusicBrainz
@@ -204,15 +206,6 @@
 |style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/96187/userscripts/raw/c46b96cc3c793a5574796e722d5f0d9ef6d41395/vimeo-importer/vimeo-importer.user.js]]
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/96187/userscripts/src/c46b96cc3c793a5574796e722d5f0d9ef6d41395/vimeo-importer/vimeo-importer.user.js]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/96187/userscripts/issues]]
-|-
-|Musicbrainz DiscIds Detector
-|Generate MusicBrainz DiscIds from online EAC logs, and check existence in MusicBrainz database.
-|style="background:#F8CEA3;"|MusicBrainz
-|
-|murdos
-|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/mb_discids_detector.user.js]]
-|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/mb_discids_detector.user.js]]
-|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
 |}
 <span style="font-size:50px; font-family: Roboto; font-weight: 100">Helper Scripts</span>
 {| class="wikitable sortable" width="90%"
@@ -634,6 +627,15 @@
 |style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/mb_ALL-RELEASE-GROUPS.user.js]]
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/mb_ALL-RELEASE-GROUPS.user.js]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
+|-
+|Musicbrainz DiscIds Detector
+|Generate MusicBrainz DiscIds from online EAC logs, and check existence in MusicBrainz database.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|murdos
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.github.com/murdos/musicbrainz-userscripts/master/mb_discids_detector.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/mb_discids_detector.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
 |-
 |Stig's Art Grabr
 |Grabbing big high resolution album cover-art from various sites
