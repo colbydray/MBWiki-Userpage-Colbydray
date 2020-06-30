@@ -1,3 +1,23 @@
+
+<!--
+
+Template:
+
+|-
+|█Plugin Name█
+|█Description█
+|█Author█
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=█Download Link█]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=█Source Code Link█]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=█Bug Report Link█]]
+
+
+no bug report link found:
+
+|N/A
+
+-->
+
 <div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
 
 <span style="font-size:50px; font-family: Roboto; font-weight: 100">Picard Plugins</span>
@@ -465,3 +485,5 @@ This plugin uses web scraping, but only once per album. In so doing it does not 
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/metabrainz/picard-plugins/tree/2.0/plugins/workandmovement]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/metabrainz/picard-plugins/issues/new?title=Work%20&%20Movement:%20]]
 |}
+
+<span style="font-size:9px">Page Modified on {{REVISIONMONTH}}/{{REVISIONDAY2}}/{{REVISIONYEAR}} by {{REVISIONUSER}}</span>
