@@ -7,36 +7,19 @@
 <!--                                                                     -->
 <!-- ------------------------------------------------------------------- -->
 
-<!--
-
-Template:
-
-|-
-|█Script Name█
-|█Description█
-|style="background:#F8CEA3;"|MusicBrainz
-|█Site Name (if available)█
-|█Author█
-|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=█Direct Install Link█]]
-|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=█Source Code Link█]]
-|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=█Bug Report Link█]]
-
-
-no bug report link found:
-
-|N/A
-
--->
-
-
 <div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
 
+{| class="wikitable cellspacing="4" style="text-align: center; background:#FFFFFF; border:2px solid #000000;" "
+|<span class="plainlinks">Notice from Page Creator:
+You can steal this text. You can copy this and make it offical.
+Just don't delete or blank the page.
+|}
+<br>
 {| class="wikitable cellspacing="4" style="text-align: center; background:#FFFFFF; border:2px solid #FFCC02;" "
 |<span class="plainlinks">Note: These userscripts are not officially supported by MusicBrainz.
 |}
-<br><br>
+<br>
 <span style="font-size:50px; font-family: Roboto; font-weight: 100">Importer Scripts</span>
-
 
 {| class="wikitable sortable" width="90%"
 |-
@@ -122,9 +105,9 @@ no bug report link found:
 |style="background:#F8CEA3;"|MusicBrainz
 |iTunes 
 |dufferzafar/damienmauchamp
-|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/damienmauchamp/Userscripts/raw/patch-1/MB-Import-From-iTunes.user.js]]
-|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/damienmauchamp/Userscripts/blob/patch-1/MB-Import-From-iTunes.user.js]]
-|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/damienmauchamp/Userscripts/issues]]
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/dufferzafar/Userscripts/raw/patch-1/MB-Import-From-iTunes.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/dufferzafar/Userscripts/blob/patch-1/MB-Import-From-iTunes.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/dufferzafar/Userscripts/issues]]
 |-
 |Import Juno Download releases to MusicBrainz
 |One-click importing of releases from junodownload.com/products pages into MusicBrainz.
@@ -202,10 +185,19 @@ no bug report link found:
 |
 |style="background:#F8CEA3;"|MusicBrainz
 |Vimeo
-|96187
+|nikki
 |style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://bitbucket.org/96187/userscripts/raw/c46b96cc3c793a5574796e722d5f0d9ef6d41395/vimeo-importer/vimeo-importer.user.js]]
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/96187/userscripts/src/c46b96cc3c793a5574796e722d5f0d9ef6d41395/vimeo-importer/vimeo-importer.user.js]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/96187/userscripts/issues]]
+|-
+|JASRAC. work importer/editor into MusicBrainz + MB-JASRAC-音楽の森-NexTone links + MB back search links
+|One click imports JASRAC works into MusicBrainz (name, iswc, type, credits, edit note, sort name, search hint) and マス歌詞®（mass-lyrics） and wikipedia links. It will do the same magic in work editor. Work links to both JASRAC and 音楽の森 / ongakunomori / music forest / minc / magic db and back to MB
+|style="background:#F8CEA3;"|MusicBrainz
+|JASRAC
+|jesus2099
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/jesus2099/konami-command/raw/master/jasrac-mb-minc_WORK-IMPORT-CROSS-LINKING.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/jesus2099/konami-command/blob/master/jasrac-mb-minc_WORK-IMPORT-CROSS-LINKING.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/jesus2099/konami-command/issues]]
 |}
 <span style="font-size:50px; font-family: Roboto; font-weight: 100">Helper Scripts</span>
 {| class="wikitable sortable" width="90%"
@@ -381,6 +373,24 @@ no bug report link found:
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/src/default/mb-edit-replace_rec_artist_from_work_page.user.js]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://bitbucket.org/loujine/musicbrainz-scripts/issues]]
 |-
+|Clone recording relations onto other recordings
+|MusicBrainz relation editor: Clone recording relations onto other recordings
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|loujine
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/loujine/musicbrainz-scripts/raw/master/mb-reledit-clone_relations.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://raw.githubusercontent.com/loujine/musicbrainz-scripts/blob/master/mb-reledit-clone_relations.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://raw.githubusercontent.com/loujine/musicbrainz-scripts/issues]]
+|-
+|Compare AcoustIDs easier
+|Displays AcoustID fingerprints in more places at MusicBrainz.
+|style="background:#F8CEA3;"|MusicBrainz
+|
+|otringal
+|style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/otringal/MB-userscripts/raw/master/Musicbrainz_acoustid.user.js]]
+|style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/otringal/MB-userscripts/blob/master/Musicbrainz_acoustid.user.js]]
+|style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/otringal/MB-userscripts/issues]]
+|-
 |Elephant Editor
 |Remember last edit notes and dates.
 |style="background:#F8CEA3;"|MusicBrainz
@@ -394,7 +404,7 @@ no bug report link found:
 |This script adds a field after the existing date fields where you can paste a date and it will try to parse it.
 |style="background:#F8CEA3;"|MusicBrainz
 |
-|JesseWeinstein
+|nikki
 |style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://gist.github.com/JesseWeinstein/368bddf748f4faf44b5775addf7f3db0/raw/fb00b612185abf9d948d2a78c685ac20605bb047/paste-a-date.user.js]]
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://gist.github.com/JesseWeinstein/368bddf748f4faf44b5775addf7f3db0]]
 |N/A
@@ -412,7 +422,7 @@ no bug report link found:
 |This makes it easier to cancel a large amount of edits on a page. Don't use this if you're prone to clicking pretty much anything by mistake.
 |style="background:#F8CEA3;"|MusicBrainz
 |
-|murdos
+|bitmap
 |style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://github.com/murdos/musicbrainz-userscripts/raw/master/fast-cancel-edits.user.js]]
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/fast-cancel-edits.user.js]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
@@ -430,7 +440,7 @@ no bug report link found:
 |Batch set recording comments from a Release page.
 |style="background:#F8CEA3;"|MusicBrainz
 |
-|murdos
+|bitmap
 |style="background:#6f6;"|[[Image:UserscriptList-Install.svg|25px |link=https://raw.githubusercontent.com/murdos/musicbrainz-userscripts/master/set-recording-comments.user.js]]
 |style="background:#66f;"|[[Image:UserscriptList-Source.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/blob/master/set-recording-comments.user.js]]
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/murdos/musicbrainz-userscripts/issues]]
@@ -647,5 +657,7 @@ no bug report link found:
 |style="background:#f66;"|[[Image:UserscriptList-Bug.svg|20px |link=https://github.com/StigNygaard/Stigs_Art_Grabr/issues]]
 |-
 |}
+
+<div class="center">[https://github.com/colbydray/MBWiki-Userpage-Colbydray/blob/master/SubPages/UserscriptList Github Backup]</div>
 
 <span style="font-size:9px">Page Modified on {{REVISIONMONTH}}/{{REVISIONDAY2}}/{{REVISIONYEAR}} by {{REVISIONUSER}}</span>
